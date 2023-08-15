@@ -2,6 +2,10 @@
 
 int main()
     {
-        printf("Hello World");
+        char uname[10];
+
+        printf("ENter a name: ");
+        scanf("%s", &uname);
+        printf("Hello %s", uname);
         return 0;
     } 
