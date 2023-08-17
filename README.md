@@ -1,5 +1,3 @@
 # Data-Structure
-Collection of all THe data Structure and practice Questions in C programing
-
-## subheader 
-This is the subheading to the main file. This is a sample program
+Collection of various programs impremented using C programing Language. All the programs are basic and is suited for begginer and intermediat programers, feel free to go through.
+Any new ideas that you want to add, feel free to pull request.
